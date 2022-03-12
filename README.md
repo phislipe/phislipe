@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Philipe
+- 👀 I’m interested in learning!
+- 🌱 I’m currently learning JavaScript, CSS, HTML
+- 📫 You can reach me on <a href="https://linkedin.com/phislipe" target="_blank">LinkeIn</a>, <a href="https://twitter.com/phislipe" target="_blank">Twitter</a> or <a href="https://instagram.com/phislipe" target="_blank">Instagram</a>
