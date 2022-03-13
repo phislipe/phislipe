@@ -1,4 +1,4 @@
-## 👋 Hello World, I’m Philipe!
+## 🌎 Hello World, I’m Philipe!
 
 #### 📌 About me
 
