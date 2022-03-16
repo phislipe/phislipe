@@ -8,7 +8,7 @@
 
 - 📝 I have some knowledge and previous experience with:
 
-[![HTML](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)](#)
+[![HTML](https://img.shields.io/badge/Microsoft_Access-A4373A?style=flat&logo=microsoft-access&logoColor=white)](#)
 
 - 📫 You can also find me on:
 
