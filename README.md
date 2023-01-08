@@ -2,13 +2,10 @@
 
 #### 📌 About me
 
-- 🌱 I’m currently learning:
+I'm a Software Engineering student located in Rio de Janeiro - Brazil, currently focused on front-end web & mobile related topics.
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+This GitHub is mainly used as an archive for everything I'm currently learning and developing.
 
-- 📝 I have some knowledge and previous professional experience with:
-
-![Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=flat&logo=microsoft-access&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-005C84?style=flat)
 
 - 📫 You can also find me on:
 
