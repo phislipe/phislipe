@@ -4,8 +4,6 @@
 
 I'm a Software Engineering student located in Rio de Janeiro - Brazil, currently focused on front-end web & mobile related topics.
 
-This GitHub is mainly used as an archive for everything I'm currently learning and developing.
-
 
 - 📫 You can also find me on:
 
