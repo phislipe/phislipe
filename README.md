@@ -2,8 +2,7 @@
 
 #### 📌 About me
 
-I'm a Software Engineering student located in Rio de Janeiro - Brazil, currently focused on front-end web & mobile related topics.
-
+I'm a Software Engineering student located in Rio de Janeiro - Brazil
 
 - 📫 You can also find me on:
 
